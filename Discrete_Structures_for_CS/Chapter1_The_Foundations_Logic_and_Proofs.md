@@ -3,7 +3,6 @@
 ---
 
 ## **1.1 Propositional Logic (命题逻辑)**
-- **Mathematical Logic (数学逻辑)**
 - **Propositional Logic (命题逻辑)**
     - **Definition (定义)**
         - 命题是一种陈述句，要么为真($\color{Green}{T}$)，要么为假($\color{Red}{F}$)，但不可能同时为真和为假。
@@ -99,11 +98,20 @@
             - 对于异或的优先级似乎没有标准约定，因为逻辑学家不经常使用它，仅使用括号可能是最安全的。
             - 蕴涵不是结合性的，惯例是向右绑定， $a→b→c$ 被读作 $a→(b→c)$ ，因此通常将其放在括号中是最安全的。
 
-    - **Propositional Functions (命题函数)**
-
-        - **Definition (定义)**
-            - 命题函数是一个函数，其定义域是一组命题，值域是命题。
-
+    - **Express the implication in natural language (蕴含的自然语言表示形式)**
+        - “if p, then q”
+        - “p implies q”
+        - “if p, q”
+        - “p only if q”
+        - “p is sufficient for q”
+        - “q unless ¬p”
+        - “a sufficient condition for q is p”
+        - “q whenever p”
+        - “q when p”
+        - “q is necessary for p”
+        - “q if p”
+        - “q follows from p”
+        - “a necessary condition for p is q”
 
 ---
 
