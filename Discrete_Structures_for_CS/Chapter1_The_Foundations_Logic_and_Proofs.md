@@ -1,5 +1,7 @@
 # **1. 基础：逻辑与证明**
 
+---
+
 ## **1.1 Propositional Logic (命题逻辑)**
 - **Mathematical Logic (数学逻辑)**
 - **Propositional Logic (命题逻辑)**
@@ -117,6 +119,8 @@
         - **Definition (定义)**
             - 命题 $p→q$ 的逆否命题是命题 $¬q→¬p$。
 
+---
+
 ## **1.3 Propositional Equivalences (命题等价)**
 
 - **Classifications of Compound Propositions**: 复合命题的分类
@@ -173,6 +177,9 @@
     - **Contents (内容)**
         - 如果一个复合命题的真值表中至少有一个真值为真，那么这个复合命题是可满足（satisfiable）的。
         - 如果一个复合命题的真值表中所有的真值都为假，那么这个复合命题是不可满足（unsatisfiable）的。
+
+---
+
 - **The Principle of Duality**: 对偶原理
     - **Dual (对偶)**
         - 命题 $p$ 的对偶命题是命题 $¬p$。
