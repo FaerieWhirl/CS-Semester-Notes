@@ -2,6 +2,8 @@
 
 ## Formula
 
+[Proof](https://chinchongcha.wordpress.com/2010/10/10/where-is-wnrt-ln-v2v1/)
+
 Where is  $w=-nRTln\frac{V2}{V1}$ come from?
 
 - $W=Fs$
