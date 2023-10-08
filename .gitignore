@@ -1,0 +1,16 @@
+# PDF files
+.pdf
+
+# Lecture slides should not be involved in the repository
+slide
+slides
+
+# Avoid wrong spelling
+silde
+sildes
+
+# Textbook files are too large to push
+book
+books
+textbook
+textbooks
