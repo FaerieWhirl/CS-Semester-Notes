@@ -7,30 +7,6 @@
    4. 平动动能: $\frac{3}{2}kT$
    5. $ λ = \frac{1}{πnσ^2}$
 
-## **术语总结**:
-
-| Term | 中文 |
-| :--: | :--------: |
-| kinetic theory of gases | 气体动理论 |
-| ideal gas | 理想气体 |
-| rms speed | 均方根速度 |
-| mean free path | 平均自由程 |
-| collision cross section | 碰撞截面 |
-
-| 符号 | 英文 | 中文 |
-| :--: | :--: | :--: |
-| N | number of molecules | 分子数 |
-| N<sub>A</sub> | Avogadro's number | 阿伏伽德罗常数 |
-| n | number of moles | 摩尔数 |
-| P | pressure | 压强 |
-| V | volume | 体积 |
-| T | temperature | 温度 |
-| k | Boltzmann's constant | 玻尔兹曼常数 |
-| m | mass | 质量 |
-| v<sub>rms</sub> | root mean square speed | 均方根速度 |
-| λ | mean free path | 平均自由程 |
-| σ | collision cross section | 碰撞截面 |
-
 # Chapter 20 Entrophy 熵
 
 ## 公式总结
@@ -60,32 +36,6 @@ Credit:
 http://en.wikiversity.org/wiki/Thermodynamics/The_First_Law_Of_Thermodynamics
 http://hubpages.com/hub/MECHANICAL-ENGINEERING-Thermodynamics—PV-Work-compression-expansion-work
 http://www.physicsforums.com/showthread.php?t=424175
-
----
-
-## 术语总结
-
-| Term | 中文 |
-| :--: | :--------: |
-| entrophy | 熵 |
-| undergos | 经历 |
-| reversible | 可逆 |
-| adiabatic | 绝热 |
-| isothermal | 等温 |
-| expansion | 膨胀 |
-
-| 符号 | 英文 | 中文 |
-| :--: | :--: | :--: |
-| W | work | 功 |
-| n | number of moles | 摩尔数 |
-| R | gas constant | 气体常数 |
-| T | temperature | 温度 |
-| V | volume | 体积 |
-| P | pressure | 压强 |
-| d | differential | 微分 |
-| i | initial | 初始 |
-| f | final | 最终 |
-
 
 # Chapter 15 Oscillations 简谐运动
 
@@ -130,38 +80,58 @@ http://www.physicsforums.com/showthread.php?t=424175
 
    - $ F = kx $
 
-## Glossary
+# Lecture 4 电磁学
 
-| Term | Definition |
-| :--: | :--------: |
-| simple harmonic motion | 简谐运动 |
-| period | 周期 |
-| frequency | 频率 |
-| amplitude | 振幅 |
-| oscillator | 振子 |
-| spring constant | 弹簧常数 |
-| angular frequency | 角频率 |
-| displacement | 位移 |
-| velocity | 速度 |
-| acceleration | 加速度 |
-| damping | 阻尼 |
-| kinetic energy | 动能 |
-| potential energy | 势能 |
-| mechanical energy | 机械能 |
-| pendulum | 摆 |
+## 公式总结
 
-| 符号 | 英文 | 中文 |
-| :--: | :--: | :--: |
-| A | amplitude | 振幅 |
-| ω | angular frequency | 角频率 |
-| φ | phase angle | 相位角 |
-| T | period | 周期 |
-| f | frequency | 频率 |
-| m | mass | 质量 |
-| k | spring constant | 弹簧常数 |
-| x | displacement | 位移 |
-| v | velocity | 速度 |
-| a | acceleration | 加速度 |
-| b | damping constant | 阻尼常数 |
-| g | gravitational acceleration | 重力加速度 |
-| L | length | 长度 |
+1. **库仑定律**:
+
+   $$ \vec{F} = k \frac{Q_1 Q_2}{r^2} \hat{r} $$
+
+   $$ k = \frac{1}{4 \pi \epsilon_0} $$
+   $$ \vec{F} = \frac{1}{4 \pi \epsilon_0} \frac{Q_1 Q_2}{r^2} \hat{r} $$
+
+   $$ k = 8.99 \times 10^9 N m^2 \cdot C^{-2} $$
+
+   $$ \epsilon_0 = 8.85 \times 10^{-12} C^2 \cdot N^{-1} m^{-2} $$
+
+
+2. **电场**:
+
+   - 电场强度定义
+
+      $$ \vec{E} = \frac{\vec{F}}{q} $$
+
+      单位: $ N \cdot C^{-1} $ or $ V \cdot m^{-1} $
+
+      $$ \vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{Q}{r^2} \hat{r} $$
+
+3. **电场叠加原理**:
+
+   $$ \vec{E} = \vec{E_1} + \vec{E_2} + \vec{E_3} + ... $$
+
+4. **电偶极子**:
+
+   $$ \vec{p} = q \vec{d} $$
+
+- 延长线上：
+   
+   $$ \vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{2 \vec{p}}{r^3} $$
+
+- 中垂线上：
+   
+   $$ \vec{E} = - \frac{1}{4 \pi \epsilon_0} \frac{\vec{p}}{r^3} $$
+
+5. **电通量**:
+   
+      $$ \Phi_E = \int \vec{E} \cdot d\vec{A} $$
+   
+      $$ \Phi_E = \int \vec{E} \cdot \hat{n} dA $$
+   
+      $$ \Phi_E = EA \cos \theta $$
+   
+      $$ \Phi_E = \frac{Q}{\epsilon_0} $$
+
+6. **电势**
+
+
