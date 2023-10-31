@@ -1,19 +1,28 @@
 # Lecture 1 The kinetic theory of gases 气体动理论
 
-## **公式总结**:
+- **公式总结**:
    1. $$n = \frac{N}{N_A}$$
    2. $$PV = nRT$$
    3. $$v_{rms} = \sqrt{\frac{3kT}{m}}$$
       $$v_{rms} = \sqrt{\frac{3RT}{M}}$$
    4. $$\bar{KE} = \frac{3}{2} kT$$
    5. $$ R = k N_A $$
-   6. $$ λ = \frac{v}{f} $$ 
+   6. $$ λ = \frac{v}{f} $$
       $$ λ = \frac{1}{\sqrt{2} n \pi d^2 N/V} $$
       $$ λ = \frac{kT}{\sqrt{2} n \pi d^2 p} $$
+   7. $$ v_{rms} = \sqrt{\frac{v_1^2 + v_2^2 + ... + v_n^2}{n}} $$
+      $$ v_{avg} = \frac{v_1 + v_2 + ... + v_n}{n} $$
 
-# Chapter 20 Entrophy 熵
+# Lecture 2 Entrophy 熵
 
-## 公式总结
+- **公式总结**
+
+    1. $$ S = k \ln W $$
+    2. $$ \Delta S = \frac{W}{T} $$
+    3. $$ \Delta S = nR \ln \frac{V_f}{V_i} $$
+    4. $$ w = -nRT \ln \frac{V_f}{V_i} $$
+
+- **公式推导**
 
 [Proof](https://chinchongcha.wordpress.com/2010/10/10/where-is-wnrt-ln-v2v1/)
 
@@ -23,8 +32,7 @@ Where is  $w=-nRTln\frac{V2}{V1}$ come from?
 - $P=F/A$
 - So $F=PA$
 - So $W=PAs$
-- Because $s=$ `Distance` and $A=$ `Area` so $As= V$ and
-because Pressure from surrounding is constant so
+- Because $s=$ `Distance` and $A=$ `Area` so $As= V$ and because Pressure from surrounding is constant so
 - $dW= -P dV$ (In physics maybe $dW = P dV$ ; up to consider from surrounding or system.)           next step –>
 
 - $P = \frac{n R T}{V} \rightarrow W = – ∫ (\frac{n R T}{V}) dV = – n R T ln (\frac{Vf}{Vi})$.

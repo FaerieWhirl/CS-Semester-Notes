@@ -29,11 +29,13 @@
 | Term | 中文 |
 | :--: | :--------: |
 | entrophy | 熵 |
-| undergos | 经历 |
+| undergoes | 经历 |
 | reversible | 可逆 |
 | adiabatic | 绝热 |
 | isothermal | 等温 |
 | expansion | 膨胀 |
+| compression | 压缩 |
+| constant volume | 恒容 |
 
 | 符号 | 英文 | 中文 |
 | :--: | :--: | :--: |
@@ -48,7 +50,7 @@
 | f | final | 最终 |
 
 
-# Chapter 15 Oscillations 简谐运动
+# Lecture 3 简谐运动
 
 ## Formula
 
