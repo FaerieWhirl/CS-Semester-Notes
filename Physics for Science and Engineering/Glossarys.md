@@ -10,14 +10,16 @@
 
 | 符号 | 英文 | 中文 |
 | :--: | :--: | :--: |
-| N | number of molecules | 分子数 |
 | N<sub>A</sub> | Avogadro's number | 阿伏伽德罗常数 |
-| n | number of moles | 摩尔数 |
+| N | number of molecules | 分子数 |
+| **n** | **number of moles** | **摩尔数** |
+| m | mass | 质量 |
+| M | molar mass | 摩尔质量 |
 | P | pressure | 压强 |
 | V | volume | 体积 |
 | T | temperature | 温度 |
+| R | gas constant | 气体常数 |
 | k | Boltzmann's constant | 玻尔兹曼常数 |
-| m | mass | 质量 |
 | v<sub>rms</sub> | root mean square speed | 均方根速度 |
 | λ | mean free path | 平均自由程 |
 | σ | collision cross section | 碰撞截面 |

@@ -1,11 +1,15 @@
 # Lecture 1 The kinetic theory of gases 气体动理论
 
 ## **公式总结**:
-   1. $n = \frac{N}{N_A}$
-   2. $PV = nRT$
-   3. $v_{rms} = \sqrt{\frac{3kT}{m}}$
-   4. 平动动能: $\frac{3}{2}kT$
-   5. $ λ = \frac{1}{πnσ^2}$
+   1. $$n = \frac{N}{N_A}$$
+   2. $$PV = nRT$$
+   3. $$v_{rms} = \sqrt{\frac{3kT}{m}}$$
+      $$v_{rms} = \sqrt{\frac{3RT}{M}}$$
+   4. $$\bar{KE} = \frac{3}{2} kT$$
+   5. $$ R = k N_A $$
+   6. $$ λ = \frac{v}{f} $$ 
+      $$ λ = \frac{1}{\sqrt{2} n \pi d^2 N/V} $$
+      $$ λ = \frac{kT}{\sqrt{2} n \pi d^2 p} $$
 
 # Chapter 20 Entrophy 熵
 
