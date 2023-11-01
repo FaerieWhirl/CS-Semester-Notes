@@ -112,16 +112,18 @@
 
 | Term | Definition |
 | :--: | :--------: |
-|
+| resonance | 共振 |
+| constructive interference | 相长干涉 |
+| destructive interference | 相消干涉 |
 
 | 符号 | 英文 | 中文 |
 | :--: | :--: | :--: |
-| λ | wavelength | 波长 |
-| f | frequency | 频率 |
-| v | velocity | 速度 |
-| T | period | 周期 |
-| A | amplitude | 振幅 |
-| ω | angular frequency | 角频率 |
+| $λ$ | wavelength | 波长 |
+| $f$ | frequency | 频率 |
+| $v$ | velocity | 速度 |
+| $T$ | period | 周期 |
+| $y_m$ | amplitude | 振幅 |
+| $ω$ | angular frequency | 角频率 |
 | **k** | wave number | 波数 |
-| φ | phase angle | 相位角 |
-| x | displacement | 位移 |
+| $φ$ | phase angle | 相位角 |
+| $x$ | displacement | 位移 |

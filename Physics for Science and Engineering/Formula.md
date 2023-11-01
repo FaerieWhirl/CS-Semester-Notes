@@ -72,9 +72,9 @@ http://www.physicsforums.com/showthread.php?t=424175
    
    - $f = \frac{1}{T}$
    
-   对于简单的弹簧-块系统：$$ω = \sqrt{\frac{k}{m}}$$
+   对于简单的弹簧-块系统： $$ω = \sqrt{\frac{k}{m}}$$
 
-   对于简单的摆：$$ω = \sqrt{\frac{g}{L}}$$
+   对于简单的摆： $$ω = \sqrt{\frac{g}{L}}$$
 
 3. **能量的计算**:
 
@@ -189,4 +189,10 @@ http://www.physicsforums.com/showthread.php?t=424175
    $$v = \sqrt{\frac{\tau}{μ}}$$
 
    其中，$\tau$ 是张力，$μ$ 是线密度
+
+3. 正弦波平均速率
+
+   $$P_{avg} = \frac{1}{2} μ v ω^2 y_m^2$$
+
+   $$μ = \frac{m}{L} = \frac{\tau}{v^2}$$
 
