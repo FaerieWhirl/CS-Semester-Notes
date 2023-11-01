@@ -65,27 +65,10 @@
 | angular frequency | 角频率($\omega$) |
 | displacement | 位移 |
 | phase | 相位(括号里的一坨) |
-
-
-
-
-
-
-| simple harmonic motion | 简谐运动 |
-| period | 周期 |
-| frequency | 频率 |
-| **amplitude** | **振幅** |
-| oscillator | 振子 |
-| spring constant | 弹簧常数 |
-| angular frequency | 角频率 |
-| displacement | 位移 |
-| velocity | 速度 |
-| acceleration | 加速度 |
-| damping | 阻尼 |
-| kinetic energy | 动能 |
-| potential energy | 势能 |
-| mechanical energy | 机械能 |
+| SHM (simple harmonic motion) | 简谐运动 |
 | pendulum | 摆 |
+| potential energy | 势能 |
+| damping | 阻尼 |
 
 | 符号 | 英文 | 中文 |
 | :--: | :--: | :--: |
@@ -102,3 +85,13 @@
 | b | damping constant | 阻尼常数 |
 | g | gravitational acceleration | 重力加速度 |
 | L | length | 长度 |
+
+# Lecture 4 电磁学
+
+| Term | Definition |
+| :--: | :--------: |
+| charge | 电荷 |
+| spherical | 球形 |
+| identical charges | 同种电荷 |
+| equal charges | 等量电荷 |
+| electrositatic | 静电 |

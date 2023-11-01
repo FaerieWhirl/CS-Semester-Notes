@@ -86,7 +86,9 @@ http://www.physicsforums.com/showthread.php?t=424175
 
 4. **阻尼简谐运动**:
    
-   - $ A(t) = A_0 e^{-\frac{b}{2m}t} $
+   - $$ A(t) = A_0 e^{-\frac{b}{2m}t} $$
+
+   - $$ \omega = \sqrt{\frac{k}{m} - \frac{b^2}{4m^2}} $$
 
    其中: $ b $ 是阻尼系数 $ m $ 是质量 $ A_0 $ 是初始振幅
 
@@ -110,6 +112,8 @@ http://www.physicsforums.com/showthread.php?t=424175
 
    $$ \epsilon_0 = 8.85 \times 10^{-12} C^2 \cdot N^{-1} m^{-2} $$
 
+   - 电荷数
+   $$ N = 
 
 2. **电场**:
 
