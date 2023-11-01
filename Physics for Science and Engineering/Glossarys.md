@@ -95,3 +95,4 @@
 | identical charges | 同种电荷 |
 | equal charges | 等量电荷 |
 | electrositatic | 静电 |
+| excess electrons | 过剩电子 |

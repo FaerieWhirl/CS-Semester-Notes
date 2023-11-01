@@ -6,21 +6,21 @@
    3. $$v_{rms} = \sqrt{\frac{3kT}{m}}$$
       $$v_{rms} = \sqrt{\frac{3RT}{M}}$$
    4. $$\bar{KE} = \frac{3}{2} kT$$
-   5. $$ R = k N_A $$
-   6. $$ λ = \frac{v}{f} $$
-      $$ λ = \frac{1}{\sqrt{2} n \pi d^2 N/V} $$
-      $$ λ = \frac{kT}{\sqrt{2} n \pi d^2 p} $$
-   7. $$ v_{rms} = \sqrt{\frac{v_1^2 + v_2^2 + ... + v_n^2}{n}} $$
-      $$ v_{avg} = \frac{v_1 + v_2 + ... + v_n}{n} $$
+   5. $$R = k N_A$$
+   6. $$λ = \frac{v}{f}$$
+      $$λ = \frac{1}{\sqrt{2} n \pi d^2 N/V}$$
+      $$λ = \frac{kT}{\sqrt{2} n \pi d^2 p}$$
+   7. $$v_{rms} = \sqrt{\frac{v_1^2 + v_2^2 + ... + v_n^2}{n}}$$
+      $$v_{avg} = \frac{v_1 + v_2 + ... + v_n}{n}$$
 
 # Lecture 2 Entrophy 熵
 
 - **公式总结**
 
-    1. $$ S = k \ln W $$
-    2. $$ \Delta S = \frac{W}{T} $$
-    3. $$ \Delta S = nR \ln \frac{V_f}{V_i} $$
-    4. $$ w = -nRT \ln \frac{V_f}{V_i} $$
+    1. $$S = k \ln W$$
+    2. $$\Delta S = \frac{W}{T}$$
+    3. $$\Delta S = nR \ln \frac{V_f}{V_i}$$
+    4. $$w = -nRT \ln \frac{V_f}{V_i}$$
 
 - **公式推导**
 
@@ -55,34 +55,34 @@ http://www.physicsforums.com/showthread.php?t=424175
 
 1. **简谐运动的基本公式**:
    
-   - 位置: $ x(t) = A \cos(ωt + φ) $
+   - 位置: $x(t) = A \cos(ωt + φ)$
    
-   - 速度: $ v(t) = -Aω \sin(ωt + φ) $
+   - 速度: $v(t) = -Aω \sin(ωt + φ)$
 
-   - 加速度: $ a(t) = -Aω^2 \cos(ωt + φ) $
+   - 加速度: $a(t) = -Aω^2 \cos(ωt + φ)$
    
    其中:
-   $ A $ 是振幅
-   $ ω $ 是角频率
-   $ φ $ 是初始相位角
+   $A$ 是振幅
+   $ω$ 是角频率
+   $φ$ 是初始相位角
 
 2. **周期与频率**:
 
-   - $ T = \frac{1}{f} $
+   - $T = \frac{1}{f}$
    
-   - $ f = \frac{1}{T} $
+   - $f = \frac{1}{T}$
    
-   对于简单的弹簧-块系统：$$ ω = \sqrt{\frac{k}{m}} $$
+   对于简单的弹簧-块系统：$$ω = \sqrt{\frac{k}{m}}$$
 
-   对于简单的摆：$$ ω = \sqrt{\frac{g}{L}} $$
+   对于简单的摆：$$ω = \sqrt{\frac{g}{L}}$$
 
 3. **能量的计算**:
 
-   - 动能: $ KE = \frac{1}{2} m v^2 $
+   - 动能: $KE = \frac{1}{2} m v^2$
 
-   - 弹簧的势能: $ PE = \frac{1}{2} k x^2 $
+   - 弹簧的势能: $PE = \frac{1}{2} k x^2$
 
-   - 机械能: $ E = KE + PE $
+   - 机械能: $E = KE + PE$
 
 4. **阻尼简谐运动**:
    
@@ -113,7 +113,7 @@ http://www.physicsforums.com/showthread.php?t=424175
    $$ \epsilon_0 = 8.85 \times 10^{-12} C^2 \cdot N^{-1} m^{-2} $$
 
    - 电荷数
-   $$ N = 
+   $$ N = \frac{Q}{e} $$
 
 2. **电场**:
 
@@ -134,11 +134,11 @@ http://www.physicsforums.com/showthread.php?t=424175
    $$ \vec{p} = q \vec{d} $$
 
 - 延长线上：
-   
+  
    $$ \vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{2 \vec{p}}{r^3} $$
 
 - 中垂线上：
-   
+  
    $$ \vec{E} = - \frac{1}{4 \pi \epsilon_0} \frac{\vec{p}}{r^3} $$
 
 5. **电通量**:
@@ -152,5 +152,4 @@ http://www.physicsforums.com/showthread.php?t=424175
       $$ \Phi_E = \frac{Q}{\epsilon_0} $$
 
 6. **电势**
-
 
