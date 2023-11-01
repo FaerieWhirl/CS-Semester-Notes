@@ -2,67 +2,67 @@
 
 1. 已知原子个数，和原子的摩尔质量（molar mass），求原子的质量。
    - 运用公式
-      - 求出单个原子质量 $$ m = M / N_A $$
-      - 求出总质量 $$ m_{total} = m \times n $$
+      - 求出单个原子质量 $$m = M / N_A$$
+      - 求出总质量 $$m_{total} = m \times n$$
    - 注意
       - 单位的转换
 2. 根据氧气的体积和压力变化，求摩尔数和最终温度。
    - 运用公式
-      - 气体状态方程 $$ PV = nRT $$
+      - 气体状态方程 $$PV = nRT$$
    - 注意
       - $R$ 代表的是气体常数，单位是 $J/mol/K$
-       $$ R = 8.31 J \cdot mol^{-1} \cdot K^{-1} $$
+       $$R = 8.31 J \cdot mol^{-1} \cdot K^{-1}$$
 3. 已知体积、温度、压强，求 n 摩尔数（number of moles）和 N 分子数（Number of molecules）。
     - 运用公式
-        - 气体状态方程 $$ PV = nRT $$
-        - 摩尔数 $$ n = N / N_A $$
+        - 气体状态方程 $$PV = nRT$$
+        - 摩尔数 $$n = N / N_A$$
 4. 计算氢气分子在极低温度下的rms速度。
     - 运用公式
-        - rms速度 $$ v_{rms} = \sqrt{\frac{3RT}{M}} $$
+        - rms速度 $$v_{rms} = \sqrt{\frac{3RT}{M}}$$
     - 注意
         - 该情况是已知摩尔质量 M
-        - 若已知分子质量 m，则使用 $$ v_{rms} = \sqrt{\frac{3kT}{m}} $$
+        - 若已知分子质量 m，则使用 $$v_{rms} = \sqrt{\frac{3kT}{m}}$$
 5. 计算理想气体分子在两个温度下的平均平动动能。
     - 运用公式
-        - 平均平动动能 $$ \bar{KE} = \frac{3}{2} kT $$
-        - 每mol分子的平动动能 $$ \bar{KE} = \frac{3}{2} RT $$
+        - 平均平动动能 $$\bar{KE} = \frac{3}{2} kT$$
+        - 每mol分子的平动动能 $$\bar{KE} = \frac{3}{2} RT$$
     - 注意
         - R 是用在每摩尔上的（per mole）
 6. 求当声音的波长等于氧分子自由路径时的频率。
    - 运用公式
-      - 氧分子自由路径 $$ \lambda = \frac{1}{\sqrt{2} \pi d^2 n} $$
-      - 声波频率 $$ f = \frac{v}{\lambda} $$
+      - 氧分子自由路径 $$\lambda = \frac{1}{\sqrt{2} \pi d^2 n}$$
+      - 声波频率 $$f = \frac{v}{\lambda}$$
 7. 计算粒子加速器中的气体分子数和平均自由路径。
     - 运用公式
         - 平均自由路径 $$ \lambda = \frac{1}{\sqrt{2} \pi d^2 N/V} $$
 8. 根据给定的速度分布计算平均速度、最可能速度和rms速度。
     - 运用公式
-        - rms速度 $$ v_{rms} = \sqrt{\frac{v_1^2 + v_2^2 + ... + v_n^2}{n}} $$
+        - rms速度 $$v_{rms} = \sqrt{\frac{v_1^2 + v_2^2 + ... + v_n^2}{n}}$$
 
 # Homework 2
 
-1. 假设4.00摩尔的理想气体在400K下从体积 $ V_1 $ 可逆、等温地扩展到 $ V_2 = 2.00V_1 $。求：
+1. 假设4.00摩尔的理想气体在400K下从体积 $V_1$ 可逆、等温地扩展到 $V_2 = 2.00V_1$。求：
    - (a) 气体做的功；
-     - 对于理想气体的可逆、等温扩展：$$ W = -nRT \ln \left(\frac{V_2}{V_1}\right) $$
+     - 对于理想气体的可逆、等温扩展：$$W = -nRT \ln \left(\frac{V_2}{V_1}\right)$$
    - (b) 气体的熵变；
-     - 对于等温过程中的熵变：$$ \Delta S = nR \ln \left(\frac{V_2}{V_1}\right) $$
+     - 对于等温过程中的熵变：$$\Delta S = nR \ln \left(\frac{V_2}{V_1}\right)$$
    - (c) 如果扩展是可逆的并且是绝热的而不是等温的，气体的熵变是多少？
-     - 对于可逆、绝热过程：$$ \Delta S = 0 $$
+     - 对于可逆、绝热过程：$$\Delta S = 0$$
 
 2. 一个理想气体在77.0°C下进行可逆、等温的扩展，其体积从1.30L增加到3.40L。该气体的熵变为22.0 J/K。问有多少摩尔的气体？
-   - 使用等温过程中的熵变公式：$$ \Delta S = nR \ln \left(\frac{V_2}{V_1}\right) $$ 从这个公式中可以解出 $ n $。
+   - 使用等温过程中的熵变公式：$$\Delta S = nR \ln \left(\frac{V_2}{V_1}\right)$$ 从这个公式中可以解出 $n$。
 
 3. 2.50摩尔的理想气体样本在360K下可逆、等温地扩展，直到其体积加倍。气体的熵增加是多少？
-   - 同样使用等温过程中的熵变公式：$$ \Delta S = nR \ln \left(\frac{V_2}{V_1}\right) $$
+   - 同样使用等温过程中的熵变公式：$$\Delta S = nR \ln \left(\frac{V_2}{V_1}\right)$$
 
 4. 对于在132°C下理想气体的可逆、等温扩展，如果气体的熵增加了46.0 J/K，需要转移多少能量作为热量？
-   - 对于等温可逆过程，熵变与热交换之间的关系是：$$ Q = T \Delta S $$ 从这个公式中可以解出 $ Q $。
+   - 对于等温可逆过程，熵变与热交换之间的关系是：$$Q = T \Delta S$$ 从这个公式中可以解出 $Q$。
 
 6. 
    - (a) 一个12.0克的冰块在水的温度刚刚高于冰的熔点时完全融化，其熵的变化是多少？
-     - 对于熔化过程的熵变：$$ ΔS=\frac{\Delta H_{fusion}}{T}​ $$ $$ \Delta H_{fusion}=L×m $$ 其中 $ \Delta H_{fusion} $ 是熔化热。
+     - 对于熔化过程的熵变：$$ΔS=\frac{\Delta H_{fusion}}{T}​$$ $$\Delta H_{fusion}=L×m$$ 其中 $\Delta H_{fusion}$ 是熔化热。
    - (b) 5.00克的水在热板上完全蒸发，该热板的温度略高于水的沸点，其熵的变化是多少？
-     - 对于蒸发过程的熵变：$$ \Delta S = \frac{\Delta H_{vaporization}}{T_{boiling}} $$ $$ \Delta H_{vaporization}=L×m $$ 其中 $ \Delta H_{vaporization} $ 是蒸发热。
+     - 对于蒸发过程的熵变：$$\Delta S = \frac{\Delta H_{vaporization}}{T_{boiling}}$$ $$\Delta H_{vaporization}=L×m$$ 其中 $\Delta H_{vaporization}$ 是蒸发热。
 
 # Homework 3
 
@@ -91,7 +91,7 @@
    - (a)振荡的频率
    - (b)块的质量
    - (c)振动的振幅
-     - 通过计算能量来求解振幅：$$ 1/2 k A^2 = 1/2 m v^2 + 1/2 k x^2 $$
+     - 通过计算能量来求解振幅：$$1/2 k A^2 = 1/2 m v^2 + 1/2 k x^2$$
 
 27. 在简谐振动中，当位移是振幅x的一半时，系统的
    - (a)动能

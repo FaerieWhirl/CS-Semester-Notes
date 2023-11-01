@@ -86,15 +86,15 @@ http://www.physicsforums.com/showthread.php?t=424175
 
 4. **阻尼简谐运动**:
    
-   - $$ A(t) = A_0 e^{-\frac{b}{2m}t} $$
+   - $$A(t) = A_0 e^{-\frac{b}{2m}t}$$
 
-   - $$ \omega = \sqrt{\frac{k}{m} - \frac{b^2}{4m^2}} $$
+   - $$\omega = \sqrt{\frac{k}{m} - \frac{b^2}{4m^2}}$$
 
-   其中: $ b $ 是阻尼系数 $ m $ 是质量 $ A_0 $ 是初始振幅
+   其中: $b$ 是阻尼系数 $m$ 是质量 $A_0$ 是初始振幅
 
 5. **弹簧常数与力的关系**:
 
-   - $ F = kx $
+   - $F = kx$
 
 
 # Lecture 4 电磁学
@@ -103,53 +103,53 @@ http://www.physicsforums.com/showthread.php?t=424175
 
 1. **库仑定律**:
 
-   $$ \vec{F} = k \frac{Q_1 Q_2}{r^2} \hat{r} $$
+   $$\vec{F} = k \frac{Q_1 Q_2}{r^2} \hat{r}$$
 
-   $$ k = \frac{1}{4 \pi \epsilon_0} $$
-   $$ \vec{F} = \frac{1}{4 \pi \epsilon_0} \frac{Q_1 Q_2}{r^2} \hat{r} $$
+   $$k = \frac{1}{4 \pi \epsilon_0}$$
+   $$\vec{F} = \frac{1}{4 \pi \epsilon_0} \frac{Q_1 Q_2}{r^2} \hat{r}$$
 
-   $$ k = 8.99 \times 10^9 N m^2 \cdot C^{-2} $$
+   $$k = 8.99 \times 10^9 N m^2 \cdot C^{-2}$$
 
-   $$ \epsilon_0 = 8.85 \times 10^{-12} C^2 \cdot N^{-1} m^{-2} $$
+   $$\epsilon_0 = 8.85 \times 10^{-12} C^2 \cdot N^{-1} m^{-2}$$
 
    - 电荷数
-   $$ N = \frac{Q}{e} $$
+   $$N = \frac{Q}{e}$$
 
 2. **电场**:
 
    - 电场强度定义
 
-      $$ \vec{E} = \frac{\vec{F}}{q} $$
+      $$\vec{E} = \frac{\vec{F}}{q}$$
 
-      单位: $ N \cdot C^{-1} $ or $ V \cdot m^{-1} $
+      单位: $N \cdot C^{-1}$ or $V \cdot m^{-1}$
 
-      $$ \vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{Q}{r^2} \hat{r} $$
+      $$\vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{Q}{r^2} \hat{r}$$
 
 3. **电场叠加原理**:
 
-   $$ \vec{E} = \vec{E_1} + \vec{E_2} + \vec{E_3} + ... $$
+   $$\vec{E} = \vec{E_1} + \vec{E_2} + \vec{E_3} + ...$$
 
 4. **电偶极子**:
 
-   $$ \vec{p} = q \vec{d} $$
+   $$\vec{p} = q \vec{d}$$
 
 - 延长线上：
   
-   $$ \vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{2 \vec{p}}{r^3} $$
+   $$\vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{2 \vec{p}}{r^3}$$
 
 - 中垂线上：
   
-   $$ \vec{E} = - \frac{1}{4 \pi \epsilon_0} \frac{\vec{p}}{r^3} $$
+   $$\vec{E} = - \frac{1}{4 \pi \epsilon_0} \frac{\vec{p}}{r^3}$$
 
 5. **电通量**:
    
-      $$ \Phi_E = \int \vec{E} \cdot d\vec{A} $$
+      $$\Phi_E = \int \vec{E} \cdot d\vec{A}$$
    
-      $$ \Phi_E = \int \vec{E} \cdot \hat{n} dA $$
+      $$\Phi_E = \int \vec{E} \cdot \hat{n} dA$$
    
-      $$ \Phi_E = EA \cos \theta $$
+      $$\Phi_E = EA \cos \theta$$
    
-      $$ \Phi_E = \frac{Q}{\epsilon_0} $$
+      $$\Phi_E = \frac{Q}{\epsilon_0}$$
 
 6. **电势**
 
