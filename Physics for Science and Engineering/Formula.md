@@ -72,9 +72,9 @@ http://www.physicsforums.com/showthread.php?t=424175
    
    - $ f = \frac{1}{T} $
    
-   对于简单的弹簧-块系统：\[ ω = \sqrt{\frac{k}{m}} \]
+   对于简单的弹簧-块系统：$$ ω = \sqrt{\frac{k}{m}} $$
 
-   对于简单的摆：\[ ω = \sqrt{\frac{g}{L}} \]
+   对于简单的摆：$$ ω = \sqrt{\frac{g}{L}} $$
 
 3. **能量的计算**:
 
@@ -88,9 +88,12 @@ http://www.physicsforums.com/showthread.php?t=424175
    
    - $ A(t) = A_0 e^{-\frac{b}{2m}t} $
 
+   其中: $ b $ 是阻尼系数 $ m $ 是质量 $ A_0 $ 是初始振幅
+
 5. **弹簧常数与力的关系**:
 
    - $ F = kx $
+
 
 # Lecture 4 电磁学
 
