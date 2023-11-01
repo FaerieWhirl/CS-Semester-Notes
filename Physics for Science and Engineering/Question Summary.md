@@ -123,3 +123,11 @@
       $$\Phi = EA \cos \theta$$
 8. 电通量公式
       $$\Phi = \frac{Q}{\epsilon_0}$$
+
+# Homework 5
+
+1.
+
+2.
+
+3. (a)求

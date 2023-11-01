@@ -99,3 +99,29 @@
 | proton | 质子 |
 | immersed | 浸入 |
 | flux | 通量 |
+
+| 符号 | 英文 | 中文 |
+| :--: | :--: | :--: |
+| Q | charge | 电荷 |
+| k | Coulomb's constant | 库仑常数 |
+| E | electric field | 电场 |
+| $\epsilon_0$ | permittivity of free space | 真空介电常数 |
+| $\phi$ | electric potential | 电势 |
+
+# Lecture 5 波动
+
+| Term | Definition |
+| :--: | :--------: |
+|
+
+| 符号 | 英文 | 中文 |
+| :--: | :--: | :--: |
+| λ | wavelength | 波长 |
+| f | frequency | 频率 |
+| v | velocity | 速度 |
+| T | period | 周期 |
+| A | amplitude | 振幅 |
+| ω | angular frequency | 角频率 |
+| **k** | wave number | 波数 |
+| φ | phase angle | 相位角 |
+| x | displacement | 位移 |
