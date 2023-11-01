@@ -124,6 +124,10 @@ http://www.physicsforums.com/showthread.php?t=424175
       单位: $N \cdot C^{-1}$ or $V \cdot m^{-1}$
 
       $$\vec{E} = \frac{1}{4 \pi \epsilon_0} \frac{Q}{r^2} \hat{r}$$
+   
+   - 球面电场强度
+
+      $$E = \frac{q}{4 \pi \epsilon_0 R^2}$$
 
 3. **电场叠加原理**:
 
@@ -151,5 +155,17 @@ http://www.physicsforums.com/showthread.php?t=424175
    
       $$\Phi_E = \frac{Q}{\epsilon_0}$$
 
-6. **电势**
+6. 单位
 
+| 符号 | 次数 |
+| :--: | :--: |
+|  | $10^0 m$ |
+| c | $10^{-2} m$ |
+| m | $10^{-3} m$ |
+| **μ** | $10^{-6} m$ |
+| n | $10^{-9} m$ |
+| **p** | $10^{-12} m$ |
+| **f** | $10^{-15} m$ |
+| a | $10^{-18} m$ |
+| z | $10^{-21} m$ |
+| y | $10^{-24} m$ |

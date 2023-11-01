@@ -96,3 +96,6 @@
 | equal charges | 等量电荷 |
 | electrositatic | 静电 |
 | excess electrons | 过剩电子 |
+| proton | 质子 |
+| immersed | 浸入 |
+| flux | 通量 |
