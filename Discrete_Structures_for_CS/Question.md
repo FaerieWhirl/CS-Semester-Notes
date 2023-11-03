@@ -1,3 +1,26 @@
+# 1.1 命题逻辑 (Propositional Logic)
+
+1.1.12. 将命题转换为自然语言
+
+1.1.14. 将自然语言转换为命题
+
+1.1.37. 画真值表
+
+1.1.43. 二进制计算OR和AND还有XOR
+
+# 1.2 命题逻辑的应用 (Applications of Propositional Logic)
+
+1.2.3. 用命题逻辑写出命题（自然语言翻译）
+
+1.2.4. 用命题逻辑写出命题（自然语言翻译）
+
+1.2.5. 一样的
+
+1.2.7. 一样的
+
+1.2.30. 证明tautology恒真式
+不行就用真值表
+
 # 1.4 谓词与量词 (Predicates and Quantifiers)
 
 1.4.39. 将全称和存在的表达式转换为自然语言
@@ -42,7 +65,7 @@
 
 Addition. Fetch style.
 
-# 1.7
+# 1.7 证明的介绍 (Introduction to Proofs)
 
 1.7.14. 证明 $x$ is rational and $x \ne 0$ , then $1/x$ is rational
 证明方法： $x = p/q$，$1/x = q/p$
@@ -66,15 +89,19 @@ Assume that $r = \frac{a}{b}$ is a root, where $a$ and $b$ are integers and $\fr
 
 1.7.28. 证明 $m^2 = n^= only if $m = n$ or $m = −n$
 
-# 1.8
+# 1.8 证明方法和策略 (Proof Methods and Strategy)
 
 1.8.2. 证明1000内没有两个立方数的和是立方数
 证明方法： 用exhaustive proof（穷举法）证明
 
 1.8.7. 证明三角恒等式 $|a + b| ≤ |a| + |b|$
-证明方法： 用
+证明方法： 用case analysis（分情况讨论）证明
+$a > 0, b > 0$
 
-# 2.1
+1.8.17. there is a unique integer c such that |a − c| = |b − c|
+证明方法： 用case analysis（分情况讨论）证明
+
+# 2.1 集合 (Sets)
 
 2.1.10. 空集（empty set）的概念
 
@@ -94,7 +121,7 @@ Assume that $r = \frac{a}{b}$ is a root, where $a$ and $b$ are integers and $\fr
 
 2.1.44. 找满足表达式的所有集合（truth set）
 
-# 2.2
+# 2.2 集合运算 (Set Operations)
 
 2.2.14. 集合的运算，给什么1，2，3，4，等等，问你集合的运算结果
 
@@ -111,7 +138,7 @@ Assume that $r = \frac{a}{b}$ is a root, where $a$ and $b$ are integers and $\fr
 
 2.2.51. 算 $\bigcup_{i=1}^{\infty} A_i$ 和 $\bigcap_{i=1}^{\infty} A_i$
 
-# 2.3
+# 2.3 函数 (Functions)
 
 2.3.7. 找到描述的domain和range
 | 符号 | 集合 |
