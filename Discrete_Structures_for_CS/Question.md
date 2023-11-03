@@ -44,6 +44,36 @@ Addition. Fetch style.
 
 # 1.7
 
+1.7.14. 证明 $x$ is rational and $x \ne 0$ , then $1/x$ is rational
+证明方法： $x = p/q$，$1/x = q/p$
+
+1.7.18. 证明 if $n$ is an integer and $3n + 2$ is even, then $n$ is even
+(a) 用contraposition证明（反证法）
+(b) 用contradiction证明（矛盾法）
+
+1.7.19. 证明 $P (0)$, where $P (n)$ is the proposition “If $n$ is a positive integer greater than $1$, then $n^2 > n$.”
+证明方法： Vacuous proof（空证明）
+Vacuous proof的意思是，如果前提是假的，那么结论就是对的。因为前提是假的，所以结论不会被触发，所以结论是对的
+
+1.7.20. 证明 $P (1)$, where $P (n)$ is the proposition “If $n$ is a positive integer greater than $1$, then $n^2 > n$.”
+证明方法： Trivial proof（平凡证明）
+直接证明
+
+1.7.25. 证明方程 $r^3 + r + 1 = 0$ 没有有理数解
+证明方法： 用反证法证明
+Assume that $r = \frac{a}{b}$ is a root, where $a$ and $b$ are integers and $\frac{a}{b}$ is in lowest terms.
+然后分奇偶讨论
+
+1.7.28. 证明 $m^2 = n^= only if $m = n$ or $m = −n$
+
+# 1.8
+
+1.8.2. 证明1000内没有两个立方数的和是立方数
+证明方法： 用exhaustive proof（穷举法）证明
+
+1.8.7. 证明三角恒等式 $|a + b| ≤ |a| + |b|$
+证明方法： 用
+
 # 2.1
 
 2.1.10. 空集（empty set）的概念

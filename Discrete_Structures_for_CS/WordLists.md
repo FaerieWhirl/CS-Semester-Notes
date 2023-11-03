@@ -15,6 +15,23 @@
 | Introduction | 引入 |
 | Elimination | 消去 |
 
+# 1.7
+
+| Word | 中文 |
+| :---: | :---: |
+| rational number | 有理数 |
+| contraposition | 反证法 |
+| contradiction | 矛盾法 |
+| vacuous proof | 空证明 |
+| trivial proof | 平凡证明 |
+
+# 1.8
+
+| Word | 中文 |
+| :---: | :---: |
+| exhaustive proof | 穷举法 |
+
+
 # 2.1
 
 | Word | 中文 |
