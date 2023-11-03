@@ -1,7 +1,7 @@
 # 2.1 Set
 
 - **Cartesian product**
-  $$A × B = \\{(a, b) | a ∈ A ∧ b ∈ B \\}$$
+  $$A × B = \{(a, b) | a ∈ A ∧ b ∈ B \}$$
 
 - **Power set**
   $$P(A) = \{X | X ⊆ A \}$$
