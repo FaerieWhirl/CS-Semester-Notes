@@ -160,22 +160,43 @@
         - 合取范式是一个矛盾式，当且仅当每个合取项都是矛盾式的。
         - 合取范式是一个可能式，当且仅当至少有一个合取项是可能式的。
 - **Logical Equivalence Identities**: 逻辑等价式
-    | Name | Equivalence |
-    | :---: | :---: |
-    | Identity Laws | $p∧T≡p$<br/>$p∨F≡p$<br/>$p⊕T≡¬p$<br/>$p⊕F≡p$ |
-    | Domination Laws | $p∨T≡T$<br/>$p∧F≡F$ |
-    | Idempotent Laws | $p∧p≡p$<br/>$p∨p≡p$ |
-    | Double Negation Law | $¬(¬p)≡p$ |
-    | Commutative Laws | $p∧q≡q∧p$<br/>$p∨q≡q∨p$ |
-    | Associative Laws | $(p∧q)∧r≡p∧(q∧r)$<br/>$(p∨q)∨r≡p∨(q∨r)$ |
-    | Distributive Laws | $p∧(q∨r)≡(p∧q)∨(p∧r)$<br/>$p∨(q∧r)≡(p∨q)∧(p∨r)$ |
-    | De Morgan's Laws | $¬(p∧q)≡¬p∨¬q$<br/>$¬(p∨q)≡¬p∧¬q$ |
-    | Absorption Laws | $p∨(p∧q)≡p$<br/>$p∧(p∨q)≡p$ |
-    | Conditional Laws | $p→q≡¬p∨q$<br/>$¬p→¬q≡q→p$ |
-    | Contrapositive Laws | $p→q≡¬q→¬p$<br/>$¬q→¬p≡p→q$ |
-    | Biconditional Laws | $p↔q≡(p→q)∧(q→p)$<br/>$q↔p≡(q→p)∧(p→q)$ |
-    | Exclusive Or Laws | $p⊕q≡(p∨q)∧¬(p∧q)$<br/>$¬p⊕q≡(p∧q)∨¬(p∨q)$ |
-    | Negation Laws | $p∨¬p≡T$<br/>$p∧¬p≡F$ |
+
+
+    Logical Equivalences.
+EquivalenceName
+p∧T≡p
+p∨F≡pIdentity laws
+p∨T≡T
+p∧F≡FDomination laws
+p∨p ≡p
+p∧p ≡pIdempotent laws
+¬(¬p) ≡ pDouble negation law
+p∨q ≡q ∨p
+p∧q ≡q ∧pCommutative laws
+(p ∨ q) ∨ r ≡ p ∨ (q ∨ r)
+(p ∧ q) ∧ r ≡ p ∧ (q ∧ r)Associative laws
+p ∨ (q ∧ r) ≡ (p ∨ q) ∧ (p ∨ r)
+p ∧ (q ∨ r) ≡ (p ∧ q) ∨ (p ∧ r)Distributive laws
+¬(p ∧ q) ≡ ¬p ∨ ¬q
+¬(p ∨ q) ≡ ¬p ∧ ¬qDe Morgan’s laws
+p ∨ (p ∧ q) ≡ p
+p ∧ (p ∨ q) ≡ pAbsorption laws
+p ∨ ¬p ≡ T
+p ∧ ¬p ≡ FNegation laws
+
+    | Equivalence | Name | 中文 | 简写 |
+    | :---: | :---: | :---: | :---: |
+    | $p∧T≡p$</br>$p∨F≡p$ | Identity laws | 恒等律 | Identity |
+    | $p∨T≡T$</br>$p∧F≡F$ | Domination laws | 支配律 | Domination |
+    | $p∨p ≡p$</br>$p∧p ≡p$ | Idempotent laws | 幂等律 | Idempotent |
+    | $¬(¬p) ≡ p$ | Double negation law | 双重否定律 | DN |
+    | $p∨q ≡q ∨p$</br>$p∧q ≡q ∧p$ | Commutative laws | 交换律 | Commutative |
+    | $(p ∨ q) ∨ r ≡ p ∨ (q ∨ r)$</br>$(p ∧ q) ∧ r ≡ p ∧ (q ∧ r)$ | Associative laws | 结合律 | Associative |
+    | $p ∨ (q ∧ r) ≡ (p ∨ q) ∧ (p ∨ r)$</br>$p ∧ (q ∨ r) ≡ (p ∧ q) ∨ (p ∧ r)$ | Distributive laws | 分配律 | Distributive |
+    | $¬(p ∧ q) ≡ ¬p ∨ ¬q$</br>$¬(p ∨ q) ≡ ¬p ∧ ¬q$ | De Morgan’s laws | 德摩根定律 | De Morgan |
+    | $p ∨ (p ∧ q) ≡ p$</br>$p ∧ (p ∨ q) ≡ p$ | Absorption laws | 吸收律 | Absorption |
+    | $p ∨ ¬p ≡ T$</br>$p ∧ ¬p ≡ F$ | Negation laws | 否定律 | Negation |
+
 - **The Extended De Morgan’s Laws**: 扩展的德摩根定律
     - **Theorem (定理)**
         - $¬(p_1∧p_2∧⋯∧p_n)≡¬p_1∨¬p_2∨⋯∨¬p_n$
@@ -199,3 +220,15 @@
         - 当且仅当根据前提的真值得出正确的结论时，论证才有效，即不可能从真实的前提得出错误的结论。 An argument is valid if and only if the conclusion is true following from the truth value of the premises, namely, it is impossible to derive a false conclusion from true premises
 
 - **Rules of inference (推理规则)**
+
+    | Rule of Inference | Tautology | Name | 中文 | 简写 |
+    | :---: | :---: | :---: | :---: | :---: |
+    | $p$<br/>$p→q$<br/>$∴q$ | $(p∧(p→q))→q$ | Modus ponens | 摩德斯波内斯 | MP |
+    | $¬q$<br/>$p→q$<br/>$∴¬p$ | $((¬q)∧(p→q))→¬p$ | Modus tollens | 摩德斯托伦斯 | MT |
+    | $p→q$<br/>$q→r$<br/>$∴p→r$ | $((p→q)∧(q→r))→(p→r)$ | Hypothetical syllogism | 假言三段论 | HS |
+    | $p∨q$<br/>$¬p$<br/>$∴q$ | $((p∨q)∧(¬p))→q$ | Disjunctive syllogism | 析取三段论 | DS |
+    | $p$<br/>$∴p∨q$ | $p→(p∨q)$ | Addition | 加法 | Addition |
+    | $p∧q$<br/>$∴p$ | $(p∧q)→p$ | Simplification | 简化 | Simplification |
+    | $p$<br/>$q$<br/>$∴p∧q$ | $((p)∧(q))→(p∧q)$ | Conjunction | 合取 | Conjunction |
+    | $p∨q$<br/>$¬p∨r$<br/>$∴q∨r$ | $((p∨q)∧(¬p∨r))→(q∨r)$ | Resolution | 消解 | Resolution |
+
