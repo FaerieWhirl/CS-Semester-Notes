@@ -36,12 +36,14 @@
 | contradiction | 矛盾法 |
 | vacuous proof | 空证明 |
 | trivial proof | 平凡证明 |
+| counterexample | 反例 |
 
 # 1.8
 
 | Word | 中文 |
 | :---: | :---: |
 | exhaustive proof | 穷举法 |
+| proof by cases | 分情况讨论 |
 
 
 # 2.1
