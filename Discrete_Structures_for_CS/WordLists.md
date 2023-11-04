@@ -4,6 +4,12 @@
 | :---: | :---: |
 | tautology | 恒真式 |
 
+# 1.3
+
+| Word | 中文 |
+| :---: | :---: |
+| compound proposition | 复合命题 |
+
 # 1.5
 
 | Word | 中文 |

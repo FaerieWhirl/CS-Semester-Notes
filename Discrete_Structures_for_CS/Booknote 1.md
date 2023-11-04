@@ -161,29 +161,6 @@
         - 合取范式是一个可能式，当且仅当至少有一个合取项是可能式的。
 - **Logical Equivalence Identities**: 逻辑等价式
 
-
-    Logical Equivalences.
-EquivalenceName
-p∧T≡p
-p∨F≡pIdentity laws
-p∨T≡T
-p∧F≡FDomination laws
-p∨p ≡p
-p∧p ≡pIdempotent laws
-¬(¬p) ≡ pDouble negation law
-p∨q ≡q ∨p
-p∧q ≡q ∧pCommutative laws
-(p ∨ q) ∨ r ≡ p ∨ (q ∨ r)
-(p ∧ q) ∧ r ≡ p ∧ (q ∧ r)Associative laws
-p ∨ (q ∧ r) ≡ (p ∨ q) ∧ (p ∨ r)
-p ∧ (q ∨ r) ≡ (p ∧ q) ∨ (p ∧ r)Distributive laws
-¬(p ∧ q) ≡ ¬p ∨ ¬q
-¬(p ∨ q) ≡ ¬p ∧ ¬qDe Morgan’s laws
-p ∨ (p ∧ q) ≡ p
-p ∧ (p ∨ q) ≡ pAbsorption laws
-p ∨ ¬p ≡ T
-p ∧ ¬p ≡ FNegation laws
-
     | Equivalence | Name | 中文 | 简写 |
     | :---: | :---: | :---: | :---: |
     | $p∧T≡p$</br>$p∨F≡p$ | Identity laws | 恒等律 | Identity |
