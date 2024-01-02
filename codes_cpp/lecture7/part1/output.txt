@@ -1,0 +1,3 @@
+Written to file: MyStruct { member1: 1, member2: 2 }
+Written to file: MyStruct { member1: 3, member2: 4 }
+Written to file: MyStruct { member1: 5, member2: 6 }
